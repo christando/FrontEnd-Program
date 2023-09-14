@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = SampahWasm
+build_property.RootNamespace = SampahWasm
+build_property.ProjectDir = d:\tugas kuliah\Semester 5\Frontend\SampahWasm\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\tugas kuliah\Semester 5\Frontend\SampahWasm
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/tugas kuliah/Semester 5/Frontend/SampahWasm/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/tugas kuliah/Semester 5/Frontend/SampahWasm/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/tugas kuliah/Semester 5/Frontend/SampahWasm/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/tugas kuliah/Semester 5/Frontend/SampahWasm/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/tugas kuliah/Semester 5/Frontend/SampahWasm/Pages/SampahComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FtcGFoQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/tugas kuliah/Semester 5/Frontend/SampahWasm/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/tugas kuliah/Semester 5/Frontend/SampahWasm/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/tugas kuliah/Semester 5/Frontend/SampahWasm/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-dtspb4118j
+
+[d:/tugas kuliah/Semester 5/Frontend/SampahWasm/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-nf4mmyxzvt
